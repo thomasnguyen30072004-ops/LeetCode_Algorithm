@@ -35,6 +35,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0020-valid-parentheses/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +80,12 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
