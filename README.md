@@ -77,6 +77,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0622-design-circular-queue](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0622-design-circular-queue/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -114,4 +115,8 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
