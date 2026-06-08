@@ -10,6 +10,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0735-asteroid-collision](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -41,12 +42,14 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0150-evaluate-reverse-polish-notation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0735-asteroid-collision](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [1544-make-the-string-great](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1544-make-the-string-great/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0735-asteroid-collision](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
