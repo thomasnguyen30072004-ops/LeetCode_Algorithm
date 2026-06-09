@@ -19,6 +19,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
