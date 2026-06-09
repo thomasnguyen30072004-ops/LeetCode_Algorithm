@@ -14,6 +14,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0643-maximum-average-subarray-i](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0739-daily-temperatures/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
@@ -22,6 +23,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0086-partition-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +31,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0389-find-the-difference](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0389-find-the-difference/) | Easy |
 | [0561-array-partition](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0561-array-partition/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
