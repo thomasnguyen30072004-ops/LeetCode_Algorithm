@@ -7,6 +7,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0217-contains-duplicate/) | Easy |
@@ -24,6 +25,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0075-sort-colors](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -31,6 +33,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0268-missing-number/) | Easy |
