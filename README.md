@@ -20,6 +20,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0704-binary-search](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -120,6 +121,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
