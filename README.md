@@ -33,6 +33,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0086-partition-list](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0268-missing-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0069-sqrtx](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0268-missing-number/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,4 +174,8 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1388-pizza-with-3n-slices](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 <!---LeetCode Topics End-->
