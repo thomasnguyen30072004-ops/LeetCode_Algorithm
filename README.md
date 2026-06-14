@@ -22,6 +22,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0739-daily-temperatures](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1388-pizza-with-3n-slices](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -34,6 +35,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0414-third-maximum-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +88,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0268-missing-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0389-find-the-difference/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +129,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0704-binary-search](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
