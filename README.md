@@ -131,6 +131,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0069-sqrtx](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
@@ -161,6 +162,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0069-sqrtx](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
