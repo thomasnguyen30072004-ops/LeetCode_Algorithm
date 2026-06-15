@@ -6,6 +6,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
@@ -128,6 +129,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0268-missing-number/) | Easy |
