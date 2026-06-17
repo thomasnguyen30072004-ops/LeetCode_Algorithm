@@ -23,6 +23,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0704-binary-search](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0739-daily-temperatures/) | Medium |
+| [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -185,6 +186,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -194,4 +196,20 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 <!---LeetCode Topics End-->
