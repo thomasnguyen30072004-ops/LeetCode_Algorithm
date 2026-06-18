@@ -14,6 +14,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0179-largest-number/) | Medium |
+| [0200-number-of-islands](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0414-third-maximum-number/) | Easy |
@@ -203,6 +204,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -211,5 +213,14 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
