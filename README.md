@@ -27,6 +27,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1388-pizza-with-3n-slices](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -206,6 +207,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+| [0994-rotting-oranges](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0994-rotting-oranges/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0773-sliding-puzzle](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+| [0994-rotting-oranges](https://github.com/thomasnguyen30072004-ops/LeetCode_Algorithm/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
